@@ -1,0 +1,5 @@
+{
+  "name": "AI Instrument Splitter",
+  "description": "An AI-powered application that analyzes a song and provides a detailed breakdown of its individual instrument parts, including vocals, drums, and effects.",
+  "requestFramePermissions": []
+}
